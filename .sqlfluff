@@ -1,0 +1,8 @@
+# .sqlfluff
+[sqlfluff]
+dialect = bigquery
+templater = jinja
+exclude_rules = L009
+
+
+
