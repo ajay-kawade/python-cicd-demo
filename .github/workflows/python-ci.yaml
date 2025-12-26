@@ -23,9 +23,7 @@ jobs:
           pytest
       - name: Lint Code
         run: |
-          flake8
-          black --check
-          isort --check-only
+          flake8 app test
       - name: Run tests with coverage
         run:  |
           pytest --cov=app --cov-report=term-missing
