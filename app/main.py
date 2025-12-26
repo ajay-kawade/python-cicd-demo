@@ -1,7 +1,11 @@
-def add(a,b):
-    return a+b
+def add(a, b):
+    return a + b
+
+
 def main():
-    result=add(2,3)
+    result = add(2, 3)
     print(f"Result is {result}")
-if __name__=="__main__":
+
+
+if __name__ == "__main__":
     main()
