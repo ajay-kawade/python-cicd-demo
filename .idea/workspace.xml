@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c90223e2-ae36-43d8-8190-dc17687d7c23" name="Changes" comment="" />
+    <list default="true" id="c90223e2-ae36-43d8-8190-dc17687d7c23" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/dataform/definitions/staging/stg_orders.sqlx" beforeDir="false" afterPath="$PROJECT_DIR$/dataform/definitions/staging/stg_orders.sqlx" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
