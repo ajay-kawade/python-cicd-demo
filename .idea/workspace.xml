@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c90223e2-ae36-43d8-8190-dc17687d7c23" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.github/workflows/dataform-ci.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataform/dataform.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataform/definitions/includes/constants.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataform/definitions/marts/fct_sales.sqlx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataform/definitions/sources/raw_orders.sqlx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataform/definitions/staging/stg_orders.sqlx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataform/definitions/tests/assertions.sqlx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataform/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c90223e2-ae36-43d8-8190-dc17687d7c23" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,7 +36,7 @@
     "Python tests.Python tests for test_main.test_add.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "sql-ci"
+    "git-widget-placeholder": "dataform-ci"
   }
 }]]></component>
   <component name="RecentsManager">
