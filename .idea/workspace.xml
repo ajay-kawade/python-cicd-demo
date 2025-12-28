@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c90223e2-ae36-43d8-8190-dc17687d7c23" name="Changes" comment="" />
+    <list default="true" id="c90223e2-ae36-43d8-8190-dc17687d7c23" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/dataform/definitions/staging/stg_orders.sqlx" beforeDir="false" afterPath="$PROJECT_DIR$/dataform/definitions/staging/stg_orders.sqlx" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,7 +26,9 @@
   "associatedIndex": 4
 }]]></component>
   <component name="ProjectId" id="37HolbPNGam3o5ANif1GHnlOdzY" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -34,7 +38,7 @@
     "Python tests.Python tests for test_main.test_add.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "sql-ci"
+    "git-widget-placeholder": "dataform-ci"
   }
 }]]></component>
   <component name="RecentsManager">
