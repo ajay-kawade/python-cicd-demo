@@ -1,5 +1,6 @@
 {
   "warehouse":"bigquery",
   "defaultDatabase": "tf-bq-dev",
+  "defaultSchema": "stg",
   "defaultLocation": "US"
 }
