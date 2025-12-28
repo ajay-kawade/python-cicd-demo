@@ -1,7 +1,5 @@
 {
   "warehouse":"bigquery",
   "defaultDatabase": "tf-bq-dev",
-  "defaultSchema": "analytics",
-  "assertionSchema": "assertions",
   "defaultLocation": "US"
 }
